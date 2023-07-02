@@ -1,0 +1,1 @@
+swig -python example.i

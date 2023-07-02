@@ -1,0 +1,1 @@
+gcc -D MS_WIN64 -mdll -IC:\Python27\include .\example.c .\example_wrap.c C:\Python27\libs\libpython27.a -o _example.pyd

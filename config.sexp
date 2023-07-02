@@ -1,0 +1,1 @@
+(quicklisp-setup "c:/programs/portacle/all/quicklisp/setup.lisp")
