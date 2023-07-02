@@ -11,11 +11,13 @@
 ### Using tools
 
 Quicklisp:
-        https://www.quicklisp.org/beta/
-        https://beta.quicklisp.org/quicklisp.lisp
+ - https://www.quicklisp.org/beta/
+ - https://beta.quicklisp.org/quicklisp.lisp
+
 SBCL:
-        https://sbcl.org/
-        http://prdownloads.sourceforge.net/sbcl/sbcl-2.3.2-x86-64-windows-binary.msi
+ - https://sbcl.org/
+ - http://prdownloads.sourceforge.net/sbcl/sbcl-2.3.2-x86-64-windows-binary.msi
+
 SWIG:
-        https://www.swig.org/
-        https://sourceforge.net/projects/swig/files/swigwin/swigwin-4.1.1/
+ - https://www.swig.org/
+ - https://sourceforge.net/projects/swig/files/swigwin/swigwin-4.1.1/
